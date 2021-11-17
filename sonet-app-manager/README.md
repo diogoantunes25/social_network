@@ -1,2 +1,0 @@
-# sonet-app-manager
-
